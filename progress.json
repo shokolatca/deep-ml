@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:43:33.600Z",
+  "generated_at": "2026-10-17T20:43:35.393Z",
   "items": {
     "math:1": {
       "kind": "math",
@@ -11,6 +11,52 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-10-13T23:16:07.196Z",
       "last_pushed_at": "2026-10-13T23:16:07.196Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-10-15T15:46:23.122Z",
+      "last_pushed_at": "2026-10-15T15:46:23.122Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-10-15T20:23:09.404Z",
+      "last_pushed_at": "2026-10-15T20:23:09.404Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-10-15T22:36:16.973Z",
+      "last_pushed_at": "2026-10-15T22:36:16.973Z"
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-10-15T22:44:43.716Z",
+      "last_pushed_at": "2026-10-15T22:44:43.716Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
