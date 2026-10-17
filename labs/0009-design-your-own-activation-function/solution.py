@@ -16,6 +16,7 @@ def activation(x):
         - Must be deterministic
     '''
     # TODO: Implement your activation function
-    alpha = 0.1
-    sigmoid = 1 / (1 + np.exp(-np.clip(x, -60, 60)))
-    return alpha * x + (1 - alpha) * x * sigmoid
+    
+    result = np.tanh(x)  # Replace with your activation
+    
+    return result
