@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:03:05.262Z",
+  "generated_at": "2026-10-27T22:13:52.744Z",
   "items": {
     "math:1": {
       "kind": "math",
@@ -265,6 +265,19 @@
       "last_pushed_at": "2026-10-27T22:03:04.465Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:1227": {
+      "kind": "problem",
+      "id": "1227",
+      "title": "Numerically Stable Softmax",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1227",
+      "path": "problems/1227-numerically-stable-softmax",
+      "first_solved_at": "2026-10-27T22:13:51.352Z",
+      "last_pushed_at": "2026-10-27T22:13:51.352Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
